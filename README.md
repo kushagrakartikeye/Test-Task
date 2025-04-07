@@ -79,7 +79,7 @@ Blockchain valid? false
 
 ## Notes
 
-- This is a simplified simulation and not suitable for production use.
+- This is a simplified simulation for a given task and not suitable for production use.
 - Proof-of-work difficulty is set to `2` for demonstration.
 
 ---
